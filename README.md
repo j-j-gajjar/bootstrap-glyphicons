@@ -1,6 +1,6 @@
 # Glyphicons for Bootstrap
 
-The official Bootstrap icon font, featuring 160 glyphs from [Glyphicons](http://glyphicons.com), ready for use in any Bootstrap project. Includes support for IE8+.
+The official Bootstrap icon font, featuring 160 glyphs from [Glyphicons](http://glyphicons.com), is ready for use in any Bootstrap project. Includes support for IE8+.
 
 To get started, check out [http://glyphicons.getbootstrap.com](http://glyphicons.getbootstrap.com)!
 
@@ -33,7 +33,7 @@ Keep track of development and community news.
 
 For transparency and insight into our release cycle, and for striving to maintain backward compatibility, bootstrap-glyphicons will be maintained under the Semantic Versioning guidelines as much as possible.
 
-Releases will be numbered with the following format:
+Releases will be numbered in the following format:
 
 `<major>.<minor>.<patch>`
 
